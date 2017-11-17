@@ -21,7 +21,7 @@ jupyter notebook
 
 6. A new tab should open in your browser with the Jupyter notebook application running on `localhost:8888`. Navigate to the folder in Documents containing the project "wtf-is-machine-learning".
 
-7. Open up "IntroductionToPython.ipynb" to familiarise yourself with Python and Jupyter notebook. Pay particular attention to section 6 in the notebook but don't sweat over it too much if
+7. Open up "IntroductionToPython.ipynb" to familiarise yourself with Python and Jupyter notebook. Pay particular attention to section 6 in the notebook but don't sweat over it too much. We will help you during the session.
 
 8. You can then proceed with the notebook 'LinearRegression.ipynb', followed by 'LogisticRegression.ipynb'. If you are up for a challenge try the Hard version instead.
 

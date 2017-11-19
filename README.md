@@ -1,6 +1,15 @@
 # WTF is Machine Learning by VietStartup London
 
-Materials for the afternoon session of the [WTF is Machine Learning](https://www.facebook.com/events/726163544245558) event held on November 18, 2017 by VietStartup London.
+Materials for the [WTF is Machine Learning](https://www.facebook.com/events/726163544245558) event held on November 18, 2017 by [VietStartup London](https://www.facebook.com/groups/284739328332602/).
+
+## Programme
+- 10:00-11:00: Basics of Machine Learning ([video](todo), [slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Basics%20of%20ML.pdf))
+- 11:00-11:15: Coffee Break
+- 11:15-12:00: Cracking the Love Codes ([video](todo), [slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Crack%20the%20Love%20Codes.pdf))
+- 12:00-13:00: Break
+- 13:00-14:00: Linear Regression ([notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LinearRegression.ipynb), [hard notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LinearRegressionHard.ipynb), [answers](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LinearRegressionAnswers.ipynb))
+- 14:00-15:00: Logistic Regression ([slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Logistic%20Regression.pdf), [notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LogisticRegression.ipynb), [hard notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LogisticRegressionHard.ipynb), [answers](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LogisticRegressionAnswers.ipynb))
+
 
 ## How to get started
 
@@ -25,11 +34,16 @@ jupyter notebook
 
 8. You can then proceed with the notebook 'LinearRegression.ipynb', followed by 'LogisticRegression.ipynb'. If you are up for a challenge try the Hard version instead.
 
+## [Further Resources](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/ml-resources.md)
+
 ---
 
-These materials have been prepared by (in alphabetical order):
+This event was organized by (in alphabetical order):
 - [Dat Nguyen](https://github.com/dkn22)
 - [Manh Dao](https://github.com/manhdao)
-- [Thinh Ha](https://github.com/thinhha)
+- [Phuong Hoa Giang](https://github.com/HoaGiangcorp)
+- [Son Pham](https://github.com/famanson)
+- [Thinh Truong Ha](https://github.com/thinhha)
 - [Tuan Anh Le](https://github.com/tanhle)
 - [Tuan Anh Le](https://github.com/tuananhle7)
+- [Tuan-Minh Nguyen](http://tuanminh.co/)

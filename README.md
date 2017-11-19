@@ -3,9 +3,9 @@
 Materials for the [WTF is Machine Learning](https://www.facebook.com/events/726163544245558) event held on November 18, 2017 by [VietStartup London](https://www.facebook.com/groups/284739328332602/).
 
 ## Programme
-- 10:00-11:00: Basics of Machine Learning ([video](todo), [slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Basics%20of%20ML.pdf))
+- 10:00-11:00: Basics of Machine Learning ([video](https://www.facebook.com/famanson/videos/10214249173963589/), [slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Basics%20of%20ML.pdf))
 - 11:00-11:15: Coffee Break
-- 11:15-12:00: Cracking the Love Codes ([video](todo), [slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Crack%20the%20Love%20Codes.pdf))
+- 11:15-12:00: Cracking the Love Codes ([video](https://www.facebook.com/famanson/videos/10214249173963589/), [slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Crack%20the%20Love%20Codes.pdf))
 - 12:00-13:00: Break
 - 13:00-14:00: Linear Regression ([notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LinearRegression.ipynb), [hard notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LinearRegressionHard.ipynb), [answers](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LinearRegressionAnswers.ipynb))
 - 14:00-15:00: Logistic Regression ([slides](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/Logistic%20Regression.pdf), [notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LogisticRegression.ipynb), [hard notebook](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LogisticRegressionHard.ipynb), [answers](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/LogisticRegressionAnswers.ipynb))

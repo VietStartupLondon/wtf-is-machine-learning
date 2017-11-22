@@ -36,8 +36,6 @@ jupyter notebook
 
 ## [Further Resources](https://github.com/VietStartupLondon/wtf-is-machine-learning/blob/master/assets/ml-resources.md)
 
----
-
 This event was organized by (in alphabetical order):
 - [Dat Nguyen](https://github.com/dkn22)
 - [Manh Dao](https://github.com/manhdao)
